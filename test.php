@@ -1,5 +1,6 @@
 <?php
 
-foobar::;
+include('/asdasasdda');
+require('/asdddddddddddd');
 
 ?>
