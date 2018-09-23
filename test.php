@@ -1,6 +1,6 @@
 <?php
 
 include('/asdasasdda');
-require('/asdddddddddddd');
+require_once('/asdddddddddddd');
 
 ?>
